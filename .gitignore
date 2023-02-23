@@ -1,0 +1,5 @@
+*.txt
+puzzle_inputs
+*WIP*
+.vscode
+*test*
