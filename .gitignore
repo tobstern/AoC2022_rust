@@ -1,5 +1,5 @@
 AoC2022_rust/*.txt
-AoC2022_rust/puzzle_inputs
+AoC2022_rust/src/puzzle_inputs
 AoC2022_rust/*WIP*
 .vscode
 AoC2022_rust/*test*
