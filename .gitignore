@@ -1,5 +1,6 @@
-*.txt
-puzzle_inputs
-*WIP*
+AoC2022_rust/*.txt
+AoC2022_rust/puzzle_inputs
+AoC2022_rust/*WIP*
 .vscode
-*test*
+AoC2022_rust/*test*
+AoC2022_rust/target
