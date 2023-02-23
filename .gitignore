@@ -1,5 +1,5 @@
-AoC2022_rust/src/puzzle_inputs
-AoC2022_rust/src/*WIP*
+/AoC2022_rust/src/puzzle_inputs
+/AoC2022_rust/src/*WIP*
 .vscode
-AoC2022_rust/src/*test*
-AoC2022_rust/target
+/AoC2022_rust/src/*test*
+/AoC2022_rust/target
