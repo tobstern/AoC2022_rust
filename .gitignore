@@ -4,5 +4,6 @@
 /days/*/src/*test*
 /days/*/target
 /days/target
-/days/*/Cargo.toml
+/days/*/Cargo*
 /days/src
+Cargo.lock
