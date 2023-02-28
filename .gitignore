@@ -1,5 +1,6 @@
-/aoc_2022_rust/src/puzzle_inputs
-/aoc_2022_rust/src/*WIP*
+/days/puzzle_inputs
+/days/*/src/*WIP*
 .vscode
-/aoc_2022_rust/src/*test*
-/aoc_2022_rust/target
+/days/*/src/*test*
+/days/*/target
+/days/target
